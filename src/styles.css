@@ -8,14 +8,13 @@
 }
 
 .flag {
-  box-sizing: content-box;
   width: 300px;
   background-color: white;
 
   height: 200px;
   margin-bottom: 20px;
   position: relative;
-  border: solid 1px wheat;
+
   box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
     0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
   transition: transform 300ms linear;
